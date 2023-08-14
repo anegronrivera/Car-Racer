@@ -78,7 +78,6 @@
             this.AI2.TabIndex = 3;
             this.AI2.TabStop = false;
             this.AI2.Tag = "carRight";
-            this.AI2.Click += new System.EventHandler(this.pictureBox4_Click);
             // 
             // AI1
             // 
@@ -90,7 +89,6 @@
             this.AI1.TabIndex = 3;
             this.AI1.TabStop = false;
             this.AI1.Tag = "carLeft";
-            this.AI1.Click += new System.EventHandler(this.pictureBox3_Click);
             // 
             // prize
             // 
@@ -101,7 +99,6 @@
             this.prize.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.prize.TabIndex = 3;
             this.prize.TabStop = false;
-            this.prize.Click += new System.EventHandler(this.pictureBox6_Click);
             // 
             // explosion
             // 
@@ -112,7 +109,6 @@
             this.explosion.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.explosion.TabIndex = 3;
             this.explosion.TabStop = false;
-            this.explosion.Click += new System.EventHandler(this.pictureBox5_Click);
             // 
             // player
             // 
@@ -123,7 +119,6 @@
             this.player.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.player.TabIndex = 3;
             this.player.TabStop = false;
-            this.player.Click += new System.EventHandler(this.pictureBox2_Click);
             // 
             // roadTrack2
             // 
@@ -134,7 +129,6 @@
             this.roadTrack2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.roadTrack2.TabIndex = 2;
             this.roadTrack2.TabStop = false;
-            this.roadTrack2.Click += new System.EventHandler(this.roadTrack2_Click);
             // 
             // pictureBox1
             // 

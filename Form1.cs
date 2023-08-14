@@ -12,7 +12,6 @@ namespace Car_Racer
 {
     public partial class Form1 : Form
     {
-
         int roadSpeed, trafficSpeed;
         int playerSpeed = 12;
         int score, carImage;
@@ -26,41 +25,6 @@ namespace Car_Racer
         {
             InitializeComponent();
             resetGame();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox6_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox5_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void roadTrack2_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void keyIsDown(object sender, KeyEventArgs e)

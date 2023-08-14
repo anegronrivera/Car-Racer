@@ -9,3 +9,14 @@ C:\Users\Alfredo\source\repos\Car Racer\obj\Debug\Car Racer.csproj.GenerateResou
 C:\Users\Alfredo\source\repos\Car Racer\obj\Debug\Car Racer.csproj.CoreCompileInputs.cache
 C:\Users\Alfredo\source\repos\Car Racer\obj\Debug\Car Racer.exe
 C:\Users\Alfredo\source\repos\Car Racer\obj\Debug\Car Racer.pdb
+C:\Users\Alfredo\source\repos\Git\Car Racer\Car-Racer\bin\Debug\Car Racer.exe.config
+C:\Users\Alfredo\source\repos\Git\Car Racer\Car-Racer\bin\Debug\Car Racer.exe
+C:\Users\Alfredo\source\repos\Git\Car Racer\Car-Racer\bin\Debug\Car Racer.pdb
+C:\Users\Alfredo\source\repos\Git\Car Racer\Car-Racer\obj\Debug\Car Racer.csproj.AssemblyReference.cache
+C:\Users\Alfredo\source\repos\Git\Car Racer\Car-Racer\obj\Debug\Car Racer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alfredo\source\repos\Git\Car Racer\Car-Racer\obj\Debug\Car_Racer.Form1.resources
+C:\Users\Alfredo\source\repos\Git\Car Racer\Car-Racer\obj\Debug\Car_Racer.Properties.Resources.resources
+C:\Users\Alfredo\source\repos\Git\Car Racer\Car-Racer\obj\Debug\Car Racer.csproj.GenerateResource.cache
+C:\Users\Alfredo\source\repos\Git\Car Racer\Car-Racer\obj\Debug\Car Racer.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo\source\repos\Git\Car Racer\Car-Racer\obj\Debug\Car Racer.exe
+C:\Users\Alfredo\source\repos\Git\Car Racer\Car-Racer\obj\Debug\Car Racer.pdb
