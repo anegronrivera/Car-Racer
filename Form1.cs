@@ -13,7 +13,7 @@ namespace Car_Racer
     public partial class Form1 : Form
     {
         int roadSpeed, trafficSpeed;
-        int playerSpeed = 12;
+        int playerSpeed = 15;
         int score, carImage;
 
         Random rand = new Random();
@@ -101,14 +101,14 @@ namespace Car_Racer
             if (score >= 500 && score < 2000)
             {
                 prize.Image = Properties.Resources.silver;
-                roadSpeed = 20;
-                trafficSpeed = 22;
+                roadSpeed = 23;
+                trafficSpeed = 25;
             }
             if (score >= 2000)
             {
                 prize.Image = Properties.Resources.gold;
-                roadSpeed = 25;
-                trafficSpeed = 27;
+                roadSpeed = 28;
+                trafficSpeed = 30;
             }
         }
 
@@ -189,8 +189,8 @@ namespace Car_Racer
             score = 0;
             prize.Image = Properties.Resources.bronze;
 
-            roadSpeed = 12;
-            trafficSpeed = 15;
+            roadSpeed = 15;
+            trafficSpeed = 18;
 
             AI1.Top = carPosition.Next(200, 500) * -1;
             AI1.Left = carPosition.Next(8, 367);
